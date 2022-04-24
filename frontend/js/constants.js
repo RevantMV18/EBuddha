@@ -1,10 +1,10 @@
 const contractAddress = "0x775034c69C6e6bC9eACb2232C95930E2B3b4106A"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the EBuddha NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
+const welcome_p = 'The E-Buddha NFT Project is a decentralized, NFT that is focused on helping everyone around the world and staying anonymous while helping. Every time a person buys an NFT it is like they are donating and investing at the same time. 40% of the total sales will go to families and countries in need. ';
+const h1_presale_coming_soon = "NFT are ready to be minted!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
 const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
