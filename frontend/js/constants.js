@@ -3,7 +3,7 @@ const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the EBuddha NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The E-Buddha NFT Project is a decentralized, NFT that is focused on helping everyone around the world and staying anonymous while helping. Every time a person buys an NFT it is like they are donating and investing at the same time. 40% of the total sales will go to families and countries in need. ';
+const welcome_p = 'The E-Buddha NFT Project is a decentralized, NFT that is focused on helping everyone around the world and staying anonymous while helping. Every time a person buys an NFT it is like they are donating and investing at the same time. 40% of the total sales will go to families and countries in need.                                                                                                                                                                                                                                                                                  This website was created by Revant Mohanasundaram';
 const h1_presale_coming_soon = "NFT are ready to be minted!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
